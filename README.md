@@ -1,6 +1,7 @@
 ﻿# kfWrapper V2.0
 
 A ROBLOX API Wrapper. Doesn't support POST requests because ROBLOX'S API is too annoying to work with.
+Will be updated from time to time
 
 # Group Documentation
 
